@@ -10,6 +10,6 @@
 /*!******************************************!*\
   !*** ./app/assets/images/scripts/App.js ***!
   \******************************************/
-eval("alert(\"the sky is blue\");\n\n//# sourceURL=webpack://travel-site/./app/assets/images/scripts/App.js?");
+eval("alert(\"this is a test alert\");\n\n//# sourceURL=webpack://travel-site/./app/assets/images/scripts/App.js?");
 /******/ })()
 ;
